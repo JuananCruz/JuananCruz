@@ -29,6 +29,9 @@ Software Engineering student at University of Granada.
 <div align="center">
 
 <a href="https://github.com/JuananCruz/">
+  <img src="https://github-readme-stats.vercel.app/api?username=JuananCruz&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuananCruz&theme=midnight-purple&hide_border=false"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuananCruz&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact"/>
   
 </a>
 </div>
